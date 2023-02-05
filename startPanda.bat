@@ -1,0 +1,1 @@
+start jre\bin\javaw -jar out\artifacts\Panda_jar\Panda.jar
